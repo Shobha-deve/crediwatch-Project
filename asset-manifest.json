@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crediwatch-Project/static/css/main.756af292.css",
+    "main.js": "/crediwatch-Project/static/js/main.ced32132.js",
+    "static/js/787.7c838b0d.chunk.js": "/crediwatch-Project/static/js/787.7c838b0d.chunk.js",
+    "index.html": "/crediwatch-Project/index.html",
+    "main.756af292.css.map": "/crediwatch-Project/static/css/main.756af292.css.map",
+    "main.ced32132.js.map": "/crediwatch-Project/static/js/main.ced32132.js.map",
+    "787.7c838b0d.chunk.js.map": "/crediwatch-Project/static/js/787.7c838b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.ced32132.js"
+  ]
+}
